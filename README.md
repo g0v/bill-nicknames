@@ -4,8 +4,11 @@ idea from [unitedstates/bill-nicknames](http://github.com/unitedstates/bill-nick
 
 ###How it works
 **bill_number** - 提案編號. (e.g. for "院總第 1044 號 委員提案第 13747 號", this would be "1044L13747")
+
 **congress** - 提出此案的立院屆數. (e.g. for "第八屆", this would be 8)
+
 **term** - 此案關聯名稱. 小寫,半形
+
 **comment** - 解釋此案和關鍵字的關聯性
 
 ### Contributing
