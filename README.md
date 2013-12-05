@@ -1,7 +1,9 @@
 ###目的
 
-idea from [unitedstates/bill-nicknames](http://github.com/unitedstates/bill-nicknames)
+idea from [unitedstates/bill-nicknames](http://github.com/unitedstates/bill-nicknames) 
+
 表格記錄提案編號和一般的通用名稱
+
 如果你提供搜尋法案的服務，可以利用這個增進搜尋的結果
 
 ###How it works
