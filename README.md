@@ -9,7 +9,7 @@ idea from [unitedstates/bill-nicknames](http://github.com/unitedstates/bill-nick
 
 **term** - 此案關聯名稱. 小寫,半形
 
-**comment** - 解釋此案和關鍵字的關聯性
+**comment** - 解釋此案和名稱的關聯性
 
 ### Contributing
 
