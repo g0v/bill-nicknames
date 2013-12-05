@@ -1,13 +1,15 @@
 ###目的
 
 idea from [unitedstates/bill-nicknames](http://github.com/unitedstates/bill-nicknames)
+表格記錄提案編號和一般的通用名稱
+如果你提供搜尋法案的服務，可以利用這個增進搜尋的結果
 
 ###How it works
-**bill_number** - 提案編號. (e.g. for "院總第 1044 號 委員提案第 13747 號", this would be "1044L13747")
+**bill_number** - 提案編號. (e.g. "院總第 1044 號 委員提案第 13747 號", 可以寫成 "1044L13747")
 
-**congress** - 提出此案的立院屆數. (e.g. for "第八屆", this would be 8)
+**congress** - 提出此案的立院屆數. (e.g. "第八屆", 用8表示)
 
-**term** - 此案關聯名稱. 小寫,半形
+**term** - 此案關聯名稱. (英數使用小寫, 半形)
 
 **comment** - 解釋此案和名稱的關聯性
 
